@@ -11,8 +11,6 @@ I'm a software developer currently working on reverse engineering classic games.
     <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" alt="C++" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/flutter" alt="Flutter" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/node.js" alt="node.js" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/rubyonrails" alt="Ruby on Rails" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" alt="Visual Studio Code" />
   </div>
 </div>
 
@@ -32,6 +30,7 @@ I'm a software developer currently working on reverse engineering classic games.
     <img height="32" width="32" src="https://cdn.simpleicons.org/swift" alt="Swift" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" alt="TypeScript" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/vue.js" alt="Vue.js" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/rubyonrails" alt="Ruby on Rails" />
   </div>
 </div>
 
@@ -48,22 +47,10 @@ I'm a software developer currently working on reverse engineering classic games.
 
 ## Work in progress
 
-### Improving [Fallout Community Edition](https://github.com/alexbatalov/fallout1-ce) and [Fallout II Community Edition](https://github.com/alexbatalov/fallout2-ce)
+Life takes its toll, whether we like it or not. I hope to allocate more time for [Fallout Community Edition](https://github.com/alexbatalov/fallout1-ce) and [Fallout II Community Edition](https://github.com/alexbatalov/fallout2-ce) this year. There are some features I've had in mind for a long time, guess it's time to go after them.
 
-Recent efforts aimed at reimplementing Fallout II mapper (which comes with a bunch of debug info, so it should be pretty straightforward). Behind the scenes there is some progress on the launcher, which should make playing popular mods a breeze. There is not much activity lately, but stay tuned.
+Arcanum is currently in the review/validation phase, with about 99% readiness function-wise and 97% code-wise. There is still some missing bits, a lack of symbols, and a gazillion bugs. The game is slated to be released in the summer (there is no specific date). Unfortunately, there has been virtually no progress on porting [TIG](https://github.com/alexbatalov/tig), so there might be a delay.
 
-### Reverse engineering [Icewind Dale II](https://github.com/alexbatalov/iwd2-re)
+[Icewind Dale II](https://github.com/alexbatalov/iwd2-re) is currently on hold until at least 2026.
 
-Icewind Dale II was the last game utilizing classic Infinity Engine. According to public knowledge its source code is lost, so reverse engineering is a measure of last resort. It is about 4 times larger than Fallouts in terms of number of functions and was written in C++ which is harder/slower to recover from binary, but luckily I have a couple of aces up in the sleeve. I plan to finish it sometime in 2024.
-
-## What's up next?
-
-There are several secret projects I work on when I'm getting tired of public ones. I don't know their source code status so I might never be able to make them public without employing at least some sort of "clean room" approach.
-
-- A\*\*\*\*\*m
-- C\*\*\*\*\*\*\*\*\*\*n
-- S\*\*\*\*\*\*\*e
-
----
-
-I'm available for hire.
+The future of other projects is currently uncertain, to say the least.
